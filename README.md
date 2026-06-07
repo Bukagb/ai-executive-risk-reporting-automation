@@ -43,7 +43,7 @@ The workflow automatically collects risk information, applies AI-powered analysi
 
 ## Architecture
 
-[Insert Architecture Diagram Here]<img width="1752" height="1558" alt="image" src="https://github.com/user-attachments/assets/7d7b3a8e-be9a-49f4-bda0-e16aac46d1e6" />
+<img width="1752" height="1558" alt="image" src="https://github.com/user-attachments/assets/7d7b3a8e-be9a-49f4-bda0-e16aac46d1e6" />
 
 
 ---
@@ -51,6 +51,8 @@ The workflow automatically collects risk information, applies AI-powered analysi
 ## Workflow Process
 
 <img width="3130" height="1840" alt="image" src="https://github.com/user-attachments/assets/34ac2e09-fa6f-46ca-bf13-629db9155891" />
+<img width="3024" height="1656" alt="image" src="https://github.com/user-attachments/assets/b41e5e34-6e57-4c2b-841b-8f8849cbf304" />
+<img width="3010" height="1652" alt="image" src="https://github.com/user-attachments/assets/6f94f321-3dda-47ad-8d38-2ee8fe9afc69" />
 
 
 ### Workflow Steps
