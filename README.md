@@ -130,11 +130,16 @@ Mitigation strategies and escalation thresholds were incorporated into the repor
 
 ## Technology Stack
 
-* ClickUp — Risk data source
-* n8n — Workflow automation
-* GPT-5 — Executive analysis and recommendations
-* Gmail — Report distribution
-* Gamma — Executive presentation delivery
+The solution was designed using accessible, integrated, and scalable tools that support automation, governance, and executive reporting.
+
+| Layer | Tool | Why It Was Used |
+|---------|---------|---------|
+| Project Management | Jira | Sprint planning and delivery governance |
+| Risk Management | ClickUp | Centralized risk data source |
+| Automation | n8n | Workflow orchestration and reporting automation |
+| AI Analysis | GPT-5 | Executive summaries and recommendations |
+| Distribution | Gmail | Report delivery to stakeholders |
+| Presentation | Gamma | Executive communication and presentation |
 
 ---
 
