@@ -1,5 +1,3 @@
-# ai-executive-risk-reporting-automation
-
 # AI-Powered Risk Reporting and Executive Reporting Automation
 
 ## Overview
@@ -45,13 +43,15 @@ The workflow automatically collects risk information, applies AI-powered analysi
 
 ## Architecture
 
-[Insert Architecture Diagram Here]
+[Insert Architecture Diagram Here]<img width="1752" height="1558" alt="image" src="https://github.com/user-attachments/assets/7d7b3a8e-be9a-49f4-bda0-e16aac46d1e6" />
+
 
 ---
 
 ## Workflow Process
 
-[Insert n8n Workflow Screenshot Here]
+<img width="3130" height="1840" alt="image" src="https://github.com/user-attachments/assets/34ac2e09-fa6f-46ca-bf13-629db9155891" />
+
 
 ### Workflow Steps
 
@@ -67,7 +67,8 @@ The workflow automatically collects risk information, applies AI-powered analysi
 
 ## Executive Reporting Output
 
-[Insert Gmail Report Screenshot Here]
+<img width="3024" height="6638" alt="image" src="https://github.com/user-attachments/assets/26aac87b-c5f0-4b13-8a94-d0cf2d41e9de" />
+
 
 The generated report includes:
 
@@ -91,7 +92,8 @@ The workflow was designed around the needs of key project stakeholders:
 
 Communication frequency, reporting requirements, escalation paths, and governance controls were considered throughout the design process.
 
-[Insert Stakeholder Matrix Here]
+<img width="1438" height="1888" alt="image" src="https://github.com/user-attachments/assets/a0c95eab-90f0-473d-a6cb-b4d84626f63c" />
+
 
 ---
 
