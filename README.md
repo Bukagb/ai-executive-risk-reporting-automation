@@ -9,7 +9,7 @@
 
 This project explores how workflow automation and AI can improve executive risk reporting in a regulated financial services environment.
 
-The solution combines ClickUp, n8n, GPT-5, Gmail, and Gamma to transform operational risk information into executive-ready reporting while maintaining governance controls and human oversight.
+The solution combines Jira, ClickUp, n8n, GPT-5, Gmail, and Gamma to transform operational risk information into executive-ready reporting while maintaining governance controls and human oversight.
 
 ---
 
@@ -33,12 +33,13 @@ The objective was to explore how workflow automation and AI could support a more
 
 The solution was designed as an end-to-end reporting workflow that:
 
-1. Extract project risk information from ClickUp
-2. Processes and structures data through n8n
-3. Generate executive summaries and recommendations using GPT-5 
-4. Produce executive-ready reporting outputs
-5. Distribute reports through Gmail
-6. Support executive communication through Gamma presentations
+1. Manages project delivery and sprint governance through Jira
+2. Captures and tracks project risks in ClickUp
+3. Processes and structures risk data through n8n
+4. Generates executive summaries and recommendations using GPT-5
+5. Produces executive-ready reporting outputs
+6. Distributes reports through Gmail
+7. Supports executive communication through Gamma presentations
 
 The design emphasizes consistency, governance, auditability, and stakeholder visibility.
 
