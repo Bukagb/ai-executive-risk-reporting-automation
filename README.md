@@ -168,6 +168,20 @@ The result was a repeatable reporting process that transformed risk data into st
 
 ---
 
+## Project Artifacts
+
+Supporting project artifacts created during the initiative included:
+
+- Product Vision Statement
+- Product Roadmap
+- Risk Register
+- Sprint Retrospective
+- Delivery Planning Documentation
+
+These artifacts supported planning, governance, stakeholder communication, and delivery execution throughout the project lifecycle.
+
+---
+
 ## Lessons Learned
 
 Key observations from the project:
@@ -176,4 +190,5 @@ Key observations from the project:
 * Executive stakeholders value concise reporting over lengthy documentation.
 * Automation improves consistency as much as efficiency.
 * Governance controls are critical in AI-enabled workflows.
+* Early stakeholder alignment reduces reporting rework.
 * Human oversight remains essential in executive decision-making processes.
