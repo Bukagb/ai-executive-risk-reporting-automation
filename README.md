@@ -47,6 +47,7 @@ The design emphasizes consistency, governance, auditability, and stakeholder vis
 ## Architecture
 
 <img src="docs/images/Solution Architecture.png">
+
 ---
 
 ## Delivery Planning
