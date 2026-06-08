@@ -46,7 +46,7 @@ The design emphasizes consistency, governance, auditability, and stakeholder vis
 
 ## Architecture
 
-<img width="1752" height="1558" alt="image" src="https://github.com/user-attachments/assets/7d7b3a8e-be9a-49f4-bda0-e16aac46d1e6" />
+<img src="Solution Architecture.png">
 
 ---
 
@@ -91,10 +91,9 @@ The workflow automates the movement of risk information from operational trackin
 
 The workflow was designed to remain repeatable, auditable, and scalable while supporting governance requirements.
 
-<img width="3130" height="1840" alt="image" src="https://github.com/user-attachments/assets/34ac2e09-fa6f-46ca-bf13-629db9155891" />
-<img width="3024" height="1656" alt="image" src="https://github.com/user-attachments/assets/b41e5e34-6e57-4c2b-841b-8f8849cbf304" />
-<img width="3010" height="1652" alt="image" src="https://github.com/user-attachments/assets/6f94f321-3dda-47ad-8d38-2ee8fe9afc69" />
-
+<img src="NovaTrust Workflow Process Logs.png">
+<img src="Nova Trust Code Parameters.png">
+<img src="Nova Trust Code Process.png">
 ---
 
 ## Executive Reporting Output
@@ -111,7 +110,7 @@ Each report includes:
 
 The output follows a consistent format to improve readability, comparability, and stakeholder communication.
 
-<img width="3024" height="6638" alt="image" src="https://github.com/user-attachments/assets/26aac87b-c5f0-4b13-8a94-d0cf2d41e9de" />
+<img src="Executive Project Status Report.png">
 
 ---
 
