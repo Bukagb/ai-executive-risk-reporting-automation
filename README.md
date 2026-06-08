@@ -9,9 +9,7 @@
 
 This project explores how workflow automation and AI can improve executive risk reporting in a regulated financial services environment.
 
-The solution automates the collection, analysis, and distribution of project risk information, transforming operational risk data into executive-ready insights while maintaining governance controls and human review checkpoints.
-
-The workflow combines ClickUp, n8n, GPT-5, Gmail, and Gamma to create a repeatable reporting process that improves visibility, consistency, and decision-making.
+The solution combines ClickUp, n8n, GPT-5, Gmail, and Gamma to transform operational risk information into executive-ready reporting while maintaining governance controls and human oversight.
 
 ---
 
@@ -33,16 +31,16 @@ The objective was to explore how workflow automation and AI could support a more
 
 ## Solution Overview
 
-The workflow was designed to:
+The solution was designed as an end-to-end reporting workflow that:
 
 1. Extract project risk information from ClickUp
-2. Transform and structure data in n8n
-3. Apply GPT-5 analysis to generate executive summaries and recommendations
+2. Processes and structures data through n8n
+3. Generate executive summaries and recommendations using GPT-5 
 4. Produce executive-ready reporting outputs
 5. Distribute reports through Gmail
 6. Support executive communication through Gamma presentations
 
-The workflow automatically collects risk information, applies AI-powered analysis, generates executive insights, and produces structured reports while maintaining governance controls and human review checkpoints.
+The design emphasizes consistency, governance, auditability, and stakeholder visibility.
 
 ---
 
@@ -52,46 +50,58 @@ The workflow automatically collects risk information, applies AI-powered analysi
 
 ---
 
-## Technology Stack
+## Delivery Planning
 
-The solution was designed using accessible, integrated, and scalable tools that support automation, governance, and executive reporting.
+The initiative was delivered using an Agile approach with structured planning, sprint reviews, and stakeholder feedback cycles.
+
+Work was organized into delivery phases covering project initiation, risk governance, workflow automation, executive reporting, and solution validation.
+
+Jira was used to manage backlog items, track progress, prioritize work, and maintain delivery visibility throughout the project lifecycle.
+
+<img src="jira-backlog.png">
+
+---
+
+## Technology Stack
 
 | Layer | Tool | Why It Was Used |
 |---------|---------|---------|
-| Project Management | Jira | Sprint planning and delivery governance |
+| Project Management | Jira | Sprint planning and backlog management |
 | Risk Management | ClickUp | Centralized risk data source |
 | Automation | n8n | Workflow orchestration and reporting automation |
 | AI Analysis | GPT-5 | Executive summaries and recommendations |
 | Distribution | Gmail | Report delivery to stakeholders |
-| Presentation | Gamma | Executive communication and presentation |
+| Presentation | Gamma | Executive reporting presentations |
 
 ---
 
 ## Workflow Process
 
-<img width="3130" height="1840" alt="image" src="https://github.com/user-attachments/assets/34ac2e09-fa6f-46ca-bf13-629db9155891" />
-<img width="3024" height="1656" alt="image" src="https://github.com/user-attachments/assets/b41e5e34-6e57-4c2b-841b-8f8849cbf304" />
-<img width="3010" height="1652" alt="image" src="https://github.com/user-attachments/assets/6f94f321-3dda-47ad-8d38-2ee8fe9afc69" />
-
+The workflow automates the movement of risk information from operational tracking through executive communication.
 
 ### Workflow Steps
 
-1. Scheduled workflow trigger
-2. Extract risk data from ClickUp
-3. Data transformation and validation
-4. GPT-5 executive analysis
-5. Report generation
-6. Human review checkpoint
-7. Gmail distribution
+1. Scheduled trigger initiates reporting cycle
+2. Risk data is extracted from ClickUp
+3. Information is validated and transformed
+4. GPT-5 generates executive insights
+5. Report content is assembled
+6. Human review is completed
+7. Approved reports are distributed through Gmail
+
+The workflow was designed to remain repeatable, auditable, and scalable while supporting governance requirements.
+
+<img width="3130" height="1840" alt="image" src="https://github.com/user-attachments/assets/34ac2e09-fa6f-46ca-bf13-629db9155891" />
+<img width="3024" height="1656" alt="image" src="https://github.com/user-attachments/assets/b41e5e34-6e57-4c2b-841b-8f8849cbf304" />
+<img width="3010" height="1652" alt="image" src="https://github.com/user-attachments/assets/6f94f321-3dda-47ad-8d38-2ee8fe9afc69" />
 
 ---
 
 ## Executive Reporting Output
 
-<img width="3024" height="6638" alt="image" src="https://github.com/user-attachments/assets/26aac87b-c5f0-4b13-8a94-d0cf2d41e9de" />
+The workflow generates a structured executive report designed to support leadership visibility and decision-making.
 
-
-The generated report includes:
+Each report includes:
 
 * Executive summary
 * Risk assessment
@@ -99,65 +109,63 @@ The generated report includes:
 * Recommended actions
 * Reporting metadata
 
+The output follows a consistent format to improve readability, comparability, and stakeholder communication.
+
+<img width="3024" height="6638" alt="image" src="https://github.com/user-attachments/assets/26aac87b-c5f0-4b13-8a94-d0cf2d41e9de" />
+
 ---
 
 ## Stakeholder Considerations
 
-The workflow was designed around the needs of key project stakeholders:
+The reporting process was designed around the information needs of executive, operational, and compliance stakeholders.
 
-* Executive Sponsor
-* PMO Director
-* Compliance Team
-* Operations Team
-* Business Users
+Reporting frequency, escalation requirements, approval workflows, and communication channels were considered to ensure the solution aligned with governance expectations and decision-making needs.
 
-Communication frequency, reporting requirements, escalation paths, and governance controls were considered throughout the design process.
-
-<img width="1438" height="1888" alt="image" src="https://github.com/user-attachments/assets/a0c95eab-90f0-473d-a6cb-b4d84626f63c" />
-
+<img src="stakeholder-matrix.png">
 
 ---
 
 ## Responsible AI Governance
 
-AI was used to support analysis and reporting, not replace decision-making.
+AI was used to support analysis and reporting activities rather than replace human judgment.
 
-Governance controls included:
+Key governance controls included:
 
-* Human review before report distribution
+* Human review before distribution
 * AI usage tracking
 * Executive approval checkpoints
 * Escalation procedures for critical risks
-* Auditability through workflow logs
+* Workflow auditability and traceability
+
+These controls helped ensure transparency, accountability, and responsible use of AI-generated outputs.
 
 ---
 
-## Key Risks Considered
+## Risk Management
 
-Key project risks considered:
+A centralized risk register was maintained to identify, assess, monitor, and mitigate project risks throughout delivery.
 
-* Data quality
-* Regulatory compliance
-* AI adoption
-* System integration
-* User adoption
-* Budget management
+Risks were reviewed based on likelihood, impact, ownership, and mitigation status. Escalation thresholds were defined to ensure timely visibility of high-priority risks.
 
-Mitigation strategies and escalation thresholds were incorporated into the reporting process.
+The project tracked risks related to data quality, regulatory compliance, AI adoption, system integration, user adoption, and budget management.
+
+<img src="risk-register.png">
 
 ---
 
 ## Outcomes
 
-The result was a repeatable reporting process that transformed risk data into structured executive insights, improving visibility, consistency, and decision-making while maintaining responsible AI practices.
+The initiative demonstrated how AI-assisted automation can improve executive reporting while maintaining governance and accountability.
 
-Benefits demonstrated:
+Benefits observed:
 
 * Reduced manual reporting effort
 * Faster executive visibility
 * Consistent reporting outputs
 * Improved governance and accountability
 * Better stakeholder communication
+
+The result was a repeatable reporting process that transformed risk data into structured executive insights.
 
 ---
 
