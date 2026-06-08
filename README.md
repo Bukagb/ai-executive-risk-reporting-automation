@@ -1,5 +1,10 @@
 # AI-Powered Risk Reporting and Executive Reporting Automation
 
+**Domain:** Risk Management  
+**Industry:** Financial Services  
+**Type:** Workflow Automation & Executive Reporting  
+**Tools:** Jira, ClickUp, n8n, GPT-5, Gmail, Gamma
+
 ## Overview
 
 This project explores how workflow automation and AI can improve executive risk reporting in a regulated financial services environment.
@@ -45,6 +50,20 @@ The workflow automatically collects risk information, applies AI-powered analysi
 
 <img width="1752" height="1558" alt="image" src="https://github.com/user-attachments/assets/7d7b3a8e-be9a-49f4-bda0-e16aac46d1e6" />
 
+---
+
+## Technology Stack
+
+The solution was designed using accessible, integrated, and scalable tools that support automation, governance, and executive reporting.
+
+| Layer | Tool | Why It Was Used |
+|---------|---------|---------|
+| Project Management | Jira | Sprint planning and delivery governance |
+| Risk Management | ClickUp | Centralized risk data source |
+| Automation | n8n | Workflow orchestration and reporting automation |
+| AI Analysis | GPT-5 | Executive summaries and recommendations |
+| Distribution | Gmail | Report delivery to stakeholders |
+| Presentation | Gamma | Executive communication and presentation |
 
 ---
 
@@ -113,7 +132,7 @@ Governance controls included:
 
 ---
 
-## Risk Management
+## Key Risks Considered
 
 Key project risks considered:
 
@@ -125,21 +144,6 @@ Key project risks considered:
 * Budget management
 
 Mitigation strategies and escalation thresholds were incorporated into the reporting process.
-
----
-
-## Technology Stack
-
-The solution was designed using accessible, integrated, and scalable tools that support automation, governance, and executive reporting.
-
-| Layer | Tool | Why It Was Used |
-|---------|---------|---------|
-| Project Management | Jira | Sprint planning and delivery governance |
-| Risk Management | ClickUp | Centralized risk data source |
-| Automation | n8n | Workflow orchestration and reporting automation |
-| AI Analysis | GPT-5 | Executive summaries and recommendations |
-| Distribution | Gmail | Report delivery to stakeholders |
-| Presentation | Gamma | Executive communication and presentation |
 
 ---
 
