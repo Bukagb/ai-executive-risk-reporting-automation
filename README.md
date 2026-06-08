@@ -46,8 +46,7 @@ The design emphasizes consistency, governance, auditability, and stakeholder vis
 
 ## Architecture
 
-<img src="Solution Architecture.png">
-
+<img src="docs/images/Solution Architecture.png">
 ---
 
 ## Delivery Planning
@@ -58,7 +57,7 @@ Work was organized into delivery phases covering project initiation, risk govern
 
 Jira was used to manage backlog items, track progress, prioritize work, and maintain delivery visibility throughout the project lifecycle.
 
-<img src="jira-backlog.png">
+<img src="docs/images/jira-backlog.png">
 
 ---
 
@@ -91,9 +90,10 @@ The workflow automates the movement of risk information from operational trackin
 
 The workflow was designed to remain repeatable, auditable, and scalable while supporting governance requirements.
 
-<img src="NovaTrust Workflow Process Logs.png">
-<img src="Nova Trust Code Parameters.png">
-<img src="Nova Trust Code Process.png">
+<img src="docs/images/NovaTrust Workflow Process Logs.png">
+<img src="docs/images/Nova Trust Code Parameters.png">
+<img src="docs/images/Nova Trust Code Process.png">
+
 ---
 
 ## Executive Reporting Output
@@ -110,7 +110,7 @@ Each report includes:
 
 The output follows a consistent format to improve readability, comparability, and stakeholder communication.
 
-<img src="Executive Project Status Report.png">
+<img src="docs/images/Executive Project Status Report.png">
 
 ---
 
@@ -120,7 +120,7 @@ The reporting process was designed around the information needs of executive, op
 
 Reporting frequency, escalation requirements, approval workflows, and communication channels were considered to ensure the solution aligned with governance expectations and decision-making needs.
 
-<img src="stakeholder-matrix.png">
+<img src="docs/images/stakeholder-matrix.png">
 
 ---
 
@@ -148,7 +148,7 @@ Risks were reviewed based on likelihood, impact, ownership, and mitigation statu
 
 The project tracked risks related to data quality, regulatory compliance, AI adoption, system integration, user adoption, and budget management.
 
-<img src="risk-register.png">
+<img src="docs/images/risk-register.png">
 
 ---
 
