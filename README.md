@@ -69,7 +69,7 @@ The design emphasizes governance, stakeholder visibility, auditability, and resp
 
 ## Architecture
 
-<img src="docs/images/Solution Architecture.png">
+<img src="docs/images/7_Solution-Architecture-and-Responsible-AI-Design.png">
 
 ---
 
@@ -144,7 +144,7 @@ The solution was designed around the needs of executive sponsors, PMO leadership
 
 Communication plans, escalation paths, reporting frequency, and governance controls were incorporated into the delivery approach to ensure accountability and stakeholder alignment.
 
-<img src="docs/images/Stakeholder-Engagement-and-Governance-Strategy.png">
+<img src="docs/images/4_Stakeholder-Engagement-and-Governance-Strategy.png">
 ---
 
 ## Responsible AI Governance
