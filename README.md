@@ -81,7 +81,7 @@ Work was organized into delivery phases covering project initiation, risk govern
 
 Jira was used to manage backlog items, track progress, prioritize work, and maintain delivery visibility throughout the project lifecycle.
 
-<img src="docs/images/Agile-Delivery-with-Governance-Controls.png"> 
+<img src="docs/images/jira-backlog.png"> 
 
 ---
 
@@ -145,6 +145,7 @@ The solution was designed around the needs of executive sponsors, PMO leadership
 Communication plans, escalation paths, reporting frequency, and governance controls were incorporated into the delivery approach to ensure accountability and stakeholder alignment.
 
 <img src="docs/images/4_Stakeholder-Engagement-and-Governance-Strategy.png">
+
 ---
 
 ## Responsible AI Governance
