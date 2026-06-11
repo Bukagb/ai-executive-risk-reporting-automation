@@ -31,17 +31,17 @@ The objective was to explore how workflow automation and AI could support a more
 
 ## Solution Overview
 
-The solution was designed as an end-to-end reporting workflow that:
+The solution was designed as an end-to-end governance and reporting workflow that:
 
-1. Manages project delivery and sprint governance through Jira
-2. Captures and tracks project risks in ClickUp
-3. Processes and structures risk data through n8n
+1. Tracks project delivery activities through Jira
+2. Captures and manages project risks in ClickUp
+3. Processes and structures reporting data through n8n
 4. Generates executive summaries and recommendations using GPT-5
 5. Produces executive-ready reporting outputs
 6. Distributes reports through Gmail
 7. Supports executive communication through Gamma presentations
 
-The design emphasizes consistency, governance, auditability, and stakeholder visibility.
+The design emphasizes governance, stakeholder visibility, auditability, and responsible AI practices.
 
 ---
 
