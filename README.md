@@ -29,6 +29,28 @@ The objective was to explore how workflow automation and AI could support a more
 
 ---
 
+## Project Objectives and Success Criteria
+
+The initiative was designed to address executive visibility and governance challenges associated with manual risk reporting processes.
+
+### Objectives
+
+- Improve executive visibility into project risks
+- Automate executive reporting workflows
+- Strengthen governance and accountability
+- Reduce manual reporting effort
+- Improve decision-making speed
+
+### Success Criteria
+
+- Consistent executive reporting outputs
+- Automated report generation and distribution
+- Improved stakeholder visibility
+- Faster communication of project risks
+- Stronger governance and auditability
+
+---
+
 ## Solution Overview
 
 The solution was designed as an end-to-end governance and reporting workflow that:
@@ -59,7 +81,7 @@ Work was organized into delivery phases covering project initiation, risk govern
 
 Jira was used to manage backlog items, track progress, prioritize work, and maintain delivery visibility throughout the project lifecycle.
 
-<img src="docs/images/jira-backlog.png">
+<img src="docs/images/Agile-Delivery-with-Governance-Controls.png"> 
 
 ---
 
@@ -116,14 +138,13 @@ The output follows a consistent format to improve readability, comparability, an
 
 ---
 
-## Stakeholder Considerations
+## Stakeholder Engagement and Governance Strategy
 
-The reporting process was designed around the information needs of executive, operational, and compliance stakeholders.
+The solution was designed around the needs of executive sponsors, PMO leadership, compliance teams, operations teams, and business users.
 
-Reporting frequency, escalation requirements, approval workflows, and communication channels were considered to ensure the solution aligned with governance expectations and decision-making needs.
+Communication plans, escalation paths, reporting frequency, and governance controls were incorporated into the delivery approach to ensure accountability and stakeholder alignment.
 
-<img src="docs/images/stakeholder-matrix.png">
-
+<img src="docs/images/Stakeholder-Engagement-and-Governance-Strategy.png">
 ---
 
 ## Responsible AI Governance
@@ -142,7 +163,7 @@ These controls helped ensure transparency, accountability, and responsible use o
 
 ---
 
-## Risk Management
+## Managing Delivery Risks Proactively
 
 A centralized risk register was maintained to identify, assess, monitor, and mitigate project risks throughout delivery.
 
@@ -154,17 +175,19 @@ The project tracked risks related to data quality, regulatory compliance, AI ado
 
 ---
 
-## Outcomes
+## Business Outcomes and Value Realization
 
 The initiative demonstrated how AI-assisted automation can improve executive reporting while maintaining governance and accountability.
 
-Benefits observed:
+Benefits demonstrated:
 
-* Reduced manual reporting effort
-* Faster executive visibility
-* Consistent reporting outputs
-* Improved governance and accountability
-* Better stakeholder communication
+- Automated executive reporting workflows
+- Reduced manual reporting effort
+- Faster executive visibility into project risks
+- Consistent reporting outputs
+- Improved governance and accountability
+- Better stakeholder communication
+- Stronger compliance oversight
 
 The result was a repeatable reporting process that transformed risk data into structured executive insights.
 
