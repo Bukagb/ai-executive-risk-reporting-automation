@@ -208,13 +208,22 @@ These artifacts supported planning, governance, stakeholder communication, and d
 
 ---
 
-## Lessons Learned
+## Key Takeaways
 
-Key observations from the project:
+This project demonstrated how workflow automation and AI can transform operational risk data into executive-ready insights while maintaining governance and accountability.
 
-* Clean and structured data is essential for meaningful AI outputs.
-* Executive stakeholders value concise reporting over lengthy documentation.
-* Automation improves consistency as much as efficiency.
-* Governance controls are critical in AI-enabled workflows.
-* Early stakeholder alignment reduces reporting rework.
-* Human oversight remains essential in executive decision-making processes.
+Key takeaways include:
+
+- Structured data significantly improves AI output quality.
+- Governance controls are essential for AI-enabled reporting workflows.
+- Executive stakeholders require concise, decision-oriented information.
+- Consistent risk management practices improve visibility and accountability.
+- Human oversight remains a critical component of responsible AI adoption.
+
+---
+
+## Presentation Deck
+
+A detailed executive presentation of this project, including the business problem, governance approach, solution architecture, workflow automation, and outcomes, can be viewed below.
+
+[View Executive Presentation](https://gamma.app/docs/AI-Powered-Risk-Management-and-Executive-Reporting-Automation-sl9o324mhp5mgye)
