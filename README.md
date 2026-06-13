@@ -5,6 +5,16 @@
 **Type:** Workflow Automation & Executive Reporting  
 **Tools:** Jira, ClickUp, n8n, GPT-5, Gmail, Gamma
 
+---
+
+## Presentation Deck
+
+A detailed executive presentation of this project, including the business problem, governance approach, solution architecture, workflow automation, and outcomes, can be viewed below.
+
+[View Executive Presentation](https://gamma.app/docs/AI-Powered-Risk-Management-and-Executive-Reporting-Automation-sl9o324mhp5mgye)
+
+---
+
 ## Overview
 
 This project explores how workflow automation and AI can improve executive risk reporting in a regulated financial services environment.
@@ -219,11 +229,3 @@ Key takeaways include:
 - Executive stakeholders require concise, decision-oriented information.
 - Consistent risk management practices improve visibility and accountability.
 - Human oversight remains a critical component of responsible AI adoption.
-
----
-
-## Presentation Deck
-
-A detailed executive presentation of this project, including the business problem, governance approach, solution architecture, workflow automation, and outcomes, can be viewed below.
-
-[View Executive Presentation](https://gamma.app/docs/AI-Powered-Risk-Management-and-Executive-Reporting-Automation-sl9o324mhp5mgye)
